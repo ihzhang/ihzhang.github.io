@@ -1,16 +1,12 @@
 ---
 permalink: /
 title: "Iris H. Zhang"
-excerpt: "3rd year PhD student in sociology at Stanford University"
+excerpt: "5th year PhD student in sociology at Stanford University"
 author_profile: true
 #redirect_from:
   #- /about/
   #- /about.html
 ---
-
-Hello, welcome to my page! Please feel free to look through my Github public
-repositories. 
-
 Thanks for coming to my page! 
 
 I am a 5th year PhD candidate here at Stanford Sociology. I employ both quantitative and qualitative methods to answer questions about racial geography and political power among underrepresented groups in the U.S. The Changing Cities Research Lab (CCRL) is my intellectual home at Stanford. 
