@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Iris H. Zhang"
-  avatar           : "/images/headshot.jpg"
+  avatar           : "headshot.jpg"
   bio              : "PhD candidate in sociology at Stanford University"
   location         : "Stanford, CA"
   employer         :
