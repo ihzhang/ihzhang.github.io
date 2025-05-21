@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Iris H. Zhang"
-excerpt: "5th year PhD student in sociology at Stanford University"
+excerpt: "PhD candidate in sociology at Stanford University"
 author_profile: true
 #redirect_from:
   #- /about/
@@ -9,7 +9,7 @@ author_profile: true
 ---
 Thanks for coming to my page! 
 
-I am a 5th year PhD candidate at Stanford Sociology. I employ both quantitative and qualitative methods to answer questions about racial geography and political power among underrepresented groups in the U.S. The Changing Cities Research Lab (CCRL) is my intellectual home at Stanford. 
+I am a PhD candidate at Stanford Sociology. I employ mixed methods--quantitative, qualitative, and experimental--to answer questions about racial geography and political power among underrepresented groups in the U.S. 
 
 In my dissertation, I investigate the consequences of stratification on the housing market for vulnerable groups using restricted-access data from the San Francisco Federal Reserve Bank and the Panel Study of Income Dynamics, and interviews with low-income Oakland renters. This research is housed at CCRL and funded in part by Stanford Impact Labs and in partnership with the City of Oakland's Department of Housing and Community Development.
 
