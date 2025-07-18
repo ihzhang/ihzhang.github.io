@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Iris H. Zhang"
+title: "About Me"
 excerpt: "PhD candidate in sociology at Stanford University"
 author_profile: true
 #redirect_from:
