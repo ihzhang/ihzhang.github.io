@@ -7,16 +7,18 @@ author_profile: true
   #- /about/
   #- /about.html
 ---
-Thanks for coming to my page! 
+Thanks for coming to my page! I am on the academic job market this year. 
 
-I am a PhD candidate at Stanford Sociology. I employ mixed methods--quantitative, qualitative, and experimental--to answer questions about racial geography and political power among underrepresented groups in the U.S. 
+I study housing insecurity—-the uncertainty of safe, stable, and affordable housing. My research examines the structural sources of housing insecurity, how these structural constraints reproduce race and class inequality, and how to make laws and policies more effective at addressing these big societal problems. 
 
-In my dissertation, I investigate the consequences of stratification on the housing market for vulnerable groups using restricted-access data from the San Francisco Federal Reserve Bank and the Panel Study of Income Dynamics, and interviews with low-income Oakland renters. This research is housed at CCRL and funded in part by Stanford Impact Labs and in partnership with the City of Oakland's Department of Housing and Community Development.
+In my dissertation, I investigate the consequences of a racialized housing market using restricted-access data from the Panel Study of Income Dynamics and interviews with low-income Oakland renters. I identify a "double wealth penalty" for Black homeowners who are first penalized for purchasing homes in segregated, undervalued neighborhoods, and additionally penalized on the mortgage market for being Black. Using interviews with renters, I identify prior experiences with exercising their tenant rights as a driver of inequality in housing habitability. 
 
-My masters paper is a project on municipal annexations using analyses of Census place- and block-level shapefiles and Census/ACS demographic data across 2 decades.
+In earlier work, I study the relationship between gentrification and mobility. With co-authors, I argue that structural racism on the housing market is a more significant driver of inequality in residential mobility than gentrification by itself. This work has been published at *City & Community* and the *Urban Affairs Review*. 
 
-In another project, with collaborators at UC-Irvine led by Naomi Sugie and funded through the National Science Foundation and the Yellow Chair Foundation, we use novel text messaging experiments to examine barriers towards voting among system-impacted people across the United States, in partnership with the Alliance for Safety and Justice. 
+My masters paper is a project on municipal annexations using analyses of Census place- and block-level shapefiles and Census/ACS demographic data across 2 decades. This work has been published at the *Du Bois Review*. 
 
-My work has additionally been supported in part through fellowships from Stanford Impact Labs and the Center for Spatial and Textual Analysis. I was an Equity and Inclusion student fellow at the 2021 Fall APPAM Austin conference and I received the VPGE Research and Teaching Award through Stanford's Asian American Activities Center in 2022. I am always happy to share R code and publicly available data if they are not already available on my Github.
+|In ongoing projects with collaborators, I examine the impacts of neighborhood-level changes to housing |supply and tenant protection coverage on residential mobility. In another collaborative project funded |through the National Science Foundation, the Yellow Chair Foundation, and Public Agenda, we use novel, |"two-way" text messaging experiments to examine barriers towards voting among system-impacted people |across the United States, in partnership with the Alliance for Safety and Justice. This work has been published in *Punishment & Society*. 
+|   "two-way" text messaging means we send outgoing messages and reply to incoming messages
+|I also worked on a collaborative project using ethnographic observations and interview data across two |courthouses in the Bay Area. This work has been published in *Social Service Review*. 
 
-Prior to Stanford, I was a research associate at the Brennan Center for Justice. I graduated from the University of Pennsylvania with a B.A. in Sociology in 2016. 
+Prior to Stanford, I was a research associate at the Brennan Center for Justice. I graduated from the University of Pennsylvania with a B.A. in Sociology in 2016. Outside of research, I spend a lot of time with the various dogs in my family (nephew, godson) and my cat, eating spicy food with friends, and reading for my (too many) bookclubs. I am a proud slow lane swimmer with the Stanford Masters Team. 
