@@ -18,8 +18,11 @@ In earlier work, I study the relationship between gentrification and mobility. W
 My masters paper is a project on municipal annexations using analyses of Census place- and block-level shapefiles and Census/ACS demographic data across 2 decades. This work has been published at the *Du Bois Review*. 
 
 In ongoing projects with collaborators, I examine the impacts of neighborhood-level changes to housing supply and tenant protection coverage on residential mobility. In another collaborative project funded through the National Science Foundation, the Yellow Chair Foundation, and Public Agenda, we use novel, "two-way" text messaging experiments to examine barriers towards voting among system-impacted people across the United States, in partnership with the Alliance for Safety and Justice. This work has been published in *Punishment & Society*. 
+
 \setlength{\leftskip}{2cm}
+
 "two-way" text messaging means we send outgoing messages and reply to incoming messages
+
 \setlength{\leftskip}{0pt}
 
 I also worked on a collaborative project using ethnographic observations and interview data across two courthouses in the Bay Area. This work has been published in *Social Service Review*. 
