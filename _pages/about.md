@@ -24,4 +24,4 @@ In ongoing projects with collaborators, I examine the impacts of neighborhood-le
 
 I also worked on a collaborative project using ethnographic observations and interview data across two courthouses in the Bay Area. This work has been published in *Social Service Review*. 
 
-Prior to Stanford, I was a research associate at the Brennan Center for Justice. I graduated from the University of Pennsylvania with a B.A. in Sociology in 2016. Outside of research, I spend a lot of time with the various dogs in my family (nephew, godson) and my cat, eating spicy food with friends, and reading for my (too many) bookclubs. I am a proud slow lane swimmer with the Stanford Masters Team. 
+Prior to Stanford, I was a research associate at the Brennan Center for Justice. I graduated from the University of Pennsylvania with a B.A. in Sociology in 2016. Outside of research, I spend a lot of time with the various pets in my family, eating spicy food with friends, and reading for my (too many) bookclubs. I am a proud slow lane swimmer with the Stanford Masters Team. 
