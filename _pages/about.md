@@ -9,7 +9,7 @@ author_profile: true
 ---
 Thanks for coming to my page! I am on the academic job market this year. 
 
-I study housing insecurity—-the uncertainty of safe, stable, and affordable housing. My research examines the structural sources of housing insecurity, how these structural constraints reproduce race and class inequality, and how to make laws and policies more effective at addressing these big societal problems. 
+I study housing insecurity—the uncertainty of safe, stable, and affordable housing. My research examines the structural sources of housing insecurity, how these structural constraints reproduce race and class inequality, and how to make laws and policies more effective at addressing these big societal problems. 
 
 In my dissertation, I investigate the consequences of a racialized housing market using restricted-access data from the Panel Study of Income Dynamics and interviews with low-income Oakland renters. I identify a "double wealth penalty" for Black homeowners who are first penalized for purchasing homes in segregated, undervalued neighborhoods, and additionally penalized on the mortgage market for being Black. Using interviews with renters, I identify prior experiences with exercising their tenant rights as a driver of inequality in housing habitability. 
 
