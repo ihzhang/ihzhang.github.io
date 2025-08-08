@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Publications"
 #redirect_from:
   #- /publications/
