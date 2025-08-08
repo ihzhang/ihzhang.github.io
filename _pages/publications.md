@@ -1,9 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Publications"
-#redirect_from:
-  #- /publications/
-  #- /publications.html
+permalink: /publications/
+author_profile: true
 ---
 
 {% if author.googlescholar %}
