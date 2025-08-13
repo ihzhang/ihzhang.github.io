@@ -11,8 +11,8 @@ author_profile: true
 {% include base_path %}
 
 <ol reversed>
-  <li>2025. "Spatial burdens of state institutions: The case of criminal courthouses.” [_Social Service Review_ 99(2):201-257.](https://doi.org/10.1086/734463) 
-Lead Article. _with Matthew Clair and Jesus Orozco_.</li>
+  <li>2025. "Spatial burdens of state institutions: The case of criminal courthouses.” <a href="https://doi.org/10.1086/734463"><i>Social Service Review</i> 99(2):201-257</a>. 
+Lead Article. <i>with Matthew Clair and Jesus Orozco</i>.</li>
   <li>2025. "The Reign of Racialized Residential Sorting: Gentrification and Residential Mobility in the 21st Century." [_City and Community_ 4(2):83-110.](https://doi.org/10.1177/15356841241276390)
 Lead Article. _equal co-authors with Jackelyn Hwang_.</li>
   <li>2024. “The Limitations of Preclearance: Municipal Annexations Before and After Shelby v. Holder.” [_Du Bois Review_ 21(1):24-49.](https://doi.org/10.1017/S1742058X23000152) </li>
