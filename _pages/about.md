@@ -13,9 +13,9 @@ I examine mechanisms that undermine the state’s efforts to address inequality.
 
 **Published work**
 
-In earlier, published work, I study the relationship between gentrification and mobility. With co-authors, I argue that structural racism on the housing market is a more significant driver of inequality in residential mobility than gentrification by itself. This work has been published at [*City & Community*](https://doi.org/10.1177/15356841241276390) and the [*Urban Affairs Review*](https://doi.org/10.1177/10780874231169921). 
+In earlier, published work, I study the relationship between gentrification and mobility. With co-authors, I argue that structural racism on the housing market is a more significant driver of inequality in residential mobility than gentrification by itself. This work has been published in [*City & Community*](https://doi.org/10.1177/15356841241276390) and [*Urban Affairs Review*](https://doi.org/10.1177/10780874231169921). 
 
-My masters paper is a project on municipal annexations using analyses of Census place- and block-level shapefiles and Census/ACS demographic data across 2 decades. This work has been published at the [*Du Bois Review*](https://doi.org/10.1017/S1742058X23000152). 
+My masters paper is a project on municipal annexations using analyses of Census place- and block-level shapefiles and Census/ACS demographic data across 2 decades. This work has been published in [*Du Bois Review*](https://doi.org/10.1017/S1742058X23000152). 
 
 In ongoing projects with collaborators, I examine the impacts of neighborhood-level changes to housing supply and tenant protection coverage on residential mobility. In another collaborative project funded through the National Science Foundation, the Yellow Chair Foundation, and Public Agenda, we use novel, "two-way" text messaging experiments to examine barriers towards voting among system-impacted people across the United States, in partnership with the Alliance for Safety and Justice. This work has been published in [*Punishment & Society*](https://doi.org/10.1177/14624745241230199). 
 - "two-way" text messaging means we send outgoing messages and reply to incoming messages
